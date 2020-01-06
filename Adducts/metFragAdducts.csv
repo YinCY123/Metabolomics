@@ -1,0 +1,10 @@
+adduct,metFragCode,mode
+[M+H]+,1,pos
+[M+NH4]+,18,pos
+[M+Na]+,23,pos
+[M+CH3OH+H]+,33,pos
+[M+K]+,39,pos
+[M-H]-,-1,neg
+[M+Cl]-,35,neg
+[M-H+HCOOH]-,45,neg
+[M-H+CH3COOH]-,59,neg
